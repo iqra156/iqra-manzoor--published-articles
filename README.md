@@ -1,15 +1,15 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iqra156/iqra6915/main/Tech%20photo.png" width="80%" alt="Iqra's Tech Blog Banner"/>
+  <img src="https://github.com/iqra156/iqra-manzoor--published-articles/blob/main/IQRA%20MANZOOR.jpg" width="80%" alt="Iqra's Tech Blog Banner"/>
 </p>
 
-<h2 align="center">📝 My Published Articles</h2>
+<h2 align="center">IQRA MANZOOR Published Articles</h2>
 
-<p align="center">A curated collection of my work on AI, cybersecurity, VPNs, and tech insights. All written with passion to educate and empower!</p>
+<p align="center">A personal collection of the stories, tools, and tech tips I’ve written—exploring AI, cybersecurity, VPNs, and more, all in a way that’s easy to follow and fun to learn.</p>
 
 ---
 
-| 📌 No. | 📝 Title | 🏷️ Category | 🔗 Link |
+| 📌 No. | Title | 🏷️ Category | 🔗 Link |
 |--------|----------|-------------|---------|
 | 1 | 5 best holiday cybersecurity tips for safety | Cybersecurity | [Read here](https://techtalks.blog/5-best-holiday-cybersecurity-tips-for-safety/) |
 | 2 | What is data protocol 5 important types | Tech | [Read here](https://techtalks.blog/what-is-data-protocol-5-important-types/) |
